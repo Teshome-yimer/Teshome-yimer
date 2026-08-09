@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🛠 Core Technical Stack & Capabilities
 
-<!--
-**Teshome-yimer/Teshome-yimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Backend & CMS:** PHP (Laravel, WordPress), Node.js, Express, RESTful APIs
+* **Frontend:** React, Vue.js, Blade, JavaScript (ES6+), HTML5/CSS3, Tailwind/Bootstrap
+* **Mobile Development:** Flutter / Dart (Cross-platform Android & iOS)
+* **Databases:** MySQL, MariaDB, MongoDB
+* **DevOps & Tools:** Git/GitHub, Cloud Hosting (Alet Cloud, Vercel), Domain & SSL Configuration, SEO Optimization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* **Custom Web & Mobile Apps:** Full-stack development from database architecture to responsive UI.
+* **WordPress Development:** Custom theme development, plugin integration, and site optimization.
+* **Database Design:** Relational (MySQL/MariaDB) and NoSQL (MongoDB) schema architecture.
+* **Deployment & Cloud:** Setting up production hosting, SSL certificates, custom DNS, and Search Console indexing.
