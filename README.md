@@ -27,11 +27,10 @@
 - **Deployment & Cloud:** Setting up production hosting, SSL certificates, custom DNS, and Search Console indexing.
 
 ---
-
 ### 📊 GitHub Stats
 
-![Teshome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teshome-yimer&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teshome-yimer&layout=compact&theme=radial)
+![Teshome's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Teshome-yimer&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Teshome-yimer&layout=compact&theme=dark)
 
 ---
 
