@@ -36,4 +36,5 @@
 
 🌐 **Connect with me:**
 - Website: [tesheai.com](https://tesheai.com)
-- YouTube: [@tesheai](https://youtube.com/@tesheai)
+- Telegram: [@tesheai3](@tesheai3)
+-  YouTube: [https://youtube.com/@tesheai](https://youtu.be/lbqZnCjoTv4?si=tQrik0925eEKQnS0)
